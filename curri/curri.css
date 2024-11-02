@@ -1,0 +1,17 @@
+body{
+	background-color: #ffb6c1;
+     text-align:center;
+     font-size:25px;
+     font-family:arial;
+
+}
+.piedepagina {
+	background-color: #87ceeb;
+	margin-top: 100px;
+	font-family-castellar: ;
+	font-size: 15px;
+	text-align:center;
+}
+.piedepagina p {
+	padding: 100px;
+}

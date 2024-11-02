@@ -1,0 +1,22 @@
+body
+{
+	background-color: #ffb6c1;
+	font-size: 15 px;
+	font-family: arial;
+	text-align: center;
+}
+
+ header h1{
+ 	font-family: castellar;
+ 	font-size: 20px;
+ }
+
+ piedepagina{
+ 	background-color: #87ceeb;
+ 	margin-top: 100px;
+ 	font-family: castellar;
+ 	font-size:20px;
+}
+ .piedepagina{
+ 	padding: 100%;
+}

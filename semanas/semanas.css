@@ -1,0 +1,25 @@
+body{
+	background-color:#ffb6c1;
+
+
+}
+header center h1{
+	          font-family: ariel;
+	          font-size: 20px
+	          text-align:center;
+}
+
+
+
+.piedepagina {
+
+	background-color: #87ceeb;
+	margin-top: 100px;
+	font-family:castellar;
+	text-align: center;
+	font-size: 20px;
+}
+
+.piedepagina p {
+	padding: 100px;
+}
